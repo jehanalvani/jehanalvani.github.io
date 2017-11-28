@@ -1,0 +1,28 @@
+---
+layout: default
+sitemap:
+  priority: 0.9
+---
+
+{% include page/title.html %}
+
+<ul class="list-posts h-feed">
+    {% for post in paginator.posts %}
+        <li class="post-teaser h-entry">
+			<span class="post-teaser__title e-content">{{ post.content }}</span>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="u-url">
+                <span class="post-teaser__date"><time class="dt-published" datetime="{{ post.date }}">{{ post.date | date: "%d %B %Y" }}</time></span>
+            </a>
+        </li>
+    {% endfor %}
+</ul>
+
+{% if paginator.previous_page or paginator.next_page %}
+    {% include pagination.html %}
+{% endif %}
+
+<footer>
+	<p class="text">{{ site.description }}</p>
+</footer>
+
+{% include page/explore.html %}
