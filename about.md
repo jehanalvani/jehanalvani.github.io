@@ -5,4 +5,4 @@ permalink: /about/
 order: 0
 ---
 
-Mostly harmless
+Mostly harmless.
