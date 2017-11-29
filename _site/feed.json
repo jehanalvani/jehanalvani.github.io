@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jalvani.micro.blog/2017/11/29/one-more.html",
+	      	
+			"content_html": "<p>One more: </p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PxQvW7NNmno\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n",
+			"date_published": "2017-11-29T14:04:00-08:00",
+			"url": "http://micro.jehanalvani.com/2017/11/29/one-more.html"
+		},
+		
+		{
+			"id": "http://jalvani.micro.blog/2017/11/29/and-since-i.html",
+	      	
+			"content_html": "<p>And, since I can’t help myself when it comes to Jim Henson, here’s the old (strangely violent) Wilkins Coffee ads he did, featuring early muppets:</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HVewx3-9x24\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n",
+			"date_published": "2017-11-29T14:04:00-08:00",
+			"url": "http://micro.jehanalvani.com/2017/11/29/and-since-i.html"
+		},
+		
+		{
 			"id": "http://jalvani.micro.blog/2017/11/29/jim-hensons-bizarre.html",
 	      	
 			"title": "Jim Henson's Bizarre Anti-Paperwork Ad for IBM",
