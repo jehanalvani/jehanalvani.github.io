@@ -1,8 +1,8 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jehan Alvani",
-	"home_page_url": "http://jalvani.micro.blog/",
-	"feed_url": "http://jalvani.micro.blog/feed.json",
+	"home_page_url": "http://micro.jehanalvani.com/",
+	"feed_url": "http://micro.jehanalvani.com/feed.json",
 	"items": [
 		
 		{
@@ -10,7 +10,7 @@
 	      	
 			"content_html": "<p>🛫</p>\n",
 			"date_published": "2017-11-28T14:36:00-08:00",
-			"url": "http://jalvani.micro.blog/2017/11/28/223615.html"
+			"url": "http://micro.jehanalvani.com/2017/11/28/223615.html"
 		}
 		
 	]
