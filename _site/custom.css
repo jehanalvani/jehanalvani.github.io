@@ -345,6 +345,9 @@ ul, ol, dl, li {
 	border-bottom-width: 1pt;
 }
 
+li.menu a { text-decoration: none}
+li.menu a:hover { text-decoration: underline}
+
 thead {
     font-family: "PT Sans", Helvetica, arial, sans-serif;
     font-size: 12pt		!important;
