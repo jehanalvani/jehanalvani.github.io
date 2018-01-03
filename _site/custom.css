@@ -1,1 +1,5 @@
-p {font-size: 1em}
+p {
+  font-size: .8em;
+  line-height: 1.2em;
+  font-weight: 200;
+}
