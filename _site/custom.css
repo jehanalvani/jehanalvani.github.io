@@ -339,6 +339,12 @@ ul, ol, dl, li {
     margin: 1em 0
 }
 
+.menu { 
+	border-bottom: #444;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+}
+
 thead {
     font-family: "PT Sans", Helvetica, arial, sans-serif;
     font-size: 12pt		!important;
