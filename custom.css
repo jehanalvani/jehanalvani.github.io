@@ -336,7 +336,8 @@ ul, ol, dl, li {
     text-decoration: none;
     font-weight: 200		!important;
     font-style: normal;
-    margin: 1em 0
+    margin: 1em 0;
+    text-align: left;
 }
 
 .menu { 
@@ -364,7 +365,10 @@ thead {
     vertical-align: super;
     font-size: .7em;
     padding: .1em
+    text-align: left;
 }
+
+.post-teaser__date { text-align: right;}
 
 .logo { 
     font-family: "futura-pt", Helvetica, arial, sans-serif;
