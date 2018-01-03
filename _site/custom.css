@@ -301,7 +301,7 @@ h3 {
 
 p {
     font-family: "PT Sans", Helvetica, arial, sans-serif;
-    font-size: 1.2em		!important; 
+    font-size: 1em		!important; 
     line-height: 1.3em;
     text-transform: none;
     text-decoration: none;
@@ -336,7 +336,7 @@ ul, ol, dl {
 
 .logo { 
     font-family: "futura-pt", Helvetica, arial, sans-serif;
-    font-size: 5em;
+    font-size: 4em;
     font-weight: normal;
 /*     line-height: 3.2em; */
     text-transform: uppercase;
