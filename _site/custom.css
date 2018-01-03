@@ -282,7 +282,7 @@ pre, p code {
 
 
 h1, h2, h3, h4, h5, h6 {
-    margin: 1em 0 .5em
+    margin: 1em 0 .5em;
     font-family: "futura-pt", Helvetica, arial, sans-serif;
     font-weight: normal
     text-transform: none;
@@ -385,6 +385,3 @@ thead {
     text-align: left;
 /*     margin: 1em 0 */
 	}
-
-
-
