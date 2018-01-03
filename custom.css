@@ -345,7 +345,8 @@ ul, ol, dl, li {
 	border-bottom-width: 1pt;
 }
 
-.menu .li .a { text-decoration: none}
+.menu li a { text-decoration: none}
+.menu li a:hover { text-decoration: underline}
 
 thead {
     font-family: "PT Sans", Helvetica, arial, sans-serif;
