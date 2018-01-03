@@ -301,7 +301,7 @@ h3 {
 
 p {
     font-family: "PT Sans", Helvetica, arial, sans-serif;
-    font-size: .8em		!important; 
+    font-size: 12pt		!important; 
     line-height: 1.3em;
     text-transform: none;
     text-decoration: none;
@@ -345,5 +345,3 @@ ul, ol, dl, li {
     font-style: normal;
     margin: 1em 0
 	}
-
-
