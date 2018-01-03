@@ -1,4 +1,5 @@
-/*! Squarespace LESS Compiler  (less.js language v1.3.3)  */
+@import url("https://use.typekit.net/pux0cun.css");
+
 article,
 aside, details, figcaption, figure, footer, header, hgroup, nav, section {
     display: block
@@ -269,22 +270,3 @@ pre, p code {
     font-size: .7em;
     padding: .1em
 }
-
-
-/*{"c":"2015-09-11T23:59:35Z","s":"prod-origin-d4e4be78","v":"c59e87"}*/
-/*
- * The Typekit service used to deliver this font or fonts for use on websites
- * is provided by Adobe and is subject to these Terms of Use
- * http://www.adobe.com/products/eulas/tou_typekit. For font license
- * information, see the list below.
- *
- * anonymous-pro:
- *   - http://typekit.com/eulas/00000000000000000000ffc4
- *   - http://typekit.com/eulas/00000000000000000000ffc5
- * futura-pt:
- *   - http://typekit.com/eulas/000000000000000000010090
- *   - http://typekit.com/eulas/00000000000000000001008f
- *
- * (c) 2009-2015 Adobe Systems Incorporated. All Rights Reserved.
- */
-
