@@ -317,7 +317,7 @@ blockquote {
     border-width: 0 0 0 1px
 }
 
-ul, ol, dl {
+ul, ol, dl, li {
     font-family: "PT Sans", Helvetica, arial, sans-serif;
     font-size: 1em		!important;
     line-height: 1.3em	!important;
