@@ -1,5 +1,11 @@
 @import url("https://use.typekit.net/pux0cun.css");
 
+p{
+  font-size: .8em;
+  line-height:1.2em;
+  font-weight: 200
+}
+
 article,
 aside, details, figcaption, figure, footer, header, hgroup, nav, section {
     display: block
