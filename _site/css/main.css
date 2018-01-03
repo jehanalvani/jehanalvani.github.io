@@ -40,15 +40,15 @@ strong { color: #333333; }
 .social-links__entry { display: inline-block; margin-left: 10px; }
 
 /* =Titles */
-.page-title { margin-top: 100px; margin-bottom: 125px; text-align: center; }
+.page-title { margin-top: 20px; margin-bottom: 20px; text-align: center; }
 
-.page-title__text { font-weight: 700; font-size: 70px; }
+.page-title__text { font-weight: 700; font-size: 30px; }
 
 .page-title__subtitle { font-weight: 400; font-size: 22px; color: #828282; }
 
-.post-title { margin-bottom: 110px; }
+.post-title { margin-top: 20px; margin-bottom: 20px; }
 
-.post-title__text { font-size: 40px; }
+.post-title__text { font-size: 30px; }
 
 .post-title__subtitle { font-size: 20px; }
 
