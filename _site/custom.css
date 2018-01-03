@@ -8,6 +8,7 @@ aside, details, figcaption, figure, footer, header, hgroup, nav, section, post-t
     color: none;
 }
 
+/* 
 audio, canvas, video {
     display: inline-block;
     *display: inline;
@@ -21,6 +22,7 @@ audio:not([controls]) {
 [hidden] {
     display: none
 }
+ */
 
 html {
     font-size: 100%;
@@ -299,8 +301,8 @@ h3 {
 
 p {
     font-family: "PT Sans", Helvetica, arial, sans-serif;
-    font-size: 1em;
-    line-height: 1.2em;
+    font-size: 1.2em;
+    line-height: 1.3em;
     text-transform: none;
     text-decoration: none;
     font-weight: 400;
@@ -334,9 +336,9 @@ ul, ol, dl {
 
 .logo { 
     font-family: "futura-pt", Helvetica, arial, sans-serif;
-    font-size: 3em;
+    font-size: 6em;
     font-weight: normal;
-    line-height: 3.2em;
+/*     line-height: 3.2em; */
     text-transform: none;
     text-decoration: none;
     font-weight: 400;
