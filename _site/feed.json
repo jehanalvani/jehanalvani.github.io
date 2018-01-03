@@ -1,16 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jehan Alvani",
-	"home_page_url": "http://micro.jehanalvani.com/",
-	"feed_url": "http://micro.jehanalvani.com/feed.json",
+	"home_page_url": "https://micro.jehanalvani.com/",
+	"feed_url": "https://micro.jehanalvani.com/feed.json",
 	"items": [
+		
+		{
+			"id": "http://jalvani.micro.blog/2018/01/03/questions-about-zone.html",
+	      	
+			"title": "Questions about Zone v. Calorie Counting",
+			
+			"content_html": "<p>I’ve been reading about the Zone diet, recently. I’m coming at this as a long-time calorie and macro counter. I’m left with a few questions, and thought it might be interesting to document my thoughts. </p>\n\n<p>I’ll preface this discussion with the fact that I’m certainly not a nutritionist. I’m a fitness enthusiast who had my share of weight issues which stemmed from being a really active kid and teen who didn’t know <em>how</em> to eat. As a result, when I got to college and wasn’t as active in my sport, I gained a ton of weight. Over the years, I learned about fitness and nutrition, and I’ve gotten pretty good at manipulating both to achieve my goals. </p>\n\n<p>I was going to start with a quick summary of zone, but to really understand this, I think we need to go back a step.</p>\n\n<h2 id=\"calories\">Calories</h2>\n\n<p>Like I said, I’m a longtime macro-counter. The three “macro” nutrients are proteins, carbohydrates, and fats. There are others: fibers, acids, etc., but these three are relevant to this discussion.</p>\n\n<p>They break down something <a href=\"[en.wikipedia.org/wiki/Food...](https://en.wikipedia.org/wiki/Food_energy#Nutrition_labels)\">like this</a>: </p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>Nutrient</td>\n      <td>cal/g</td>\n    </tr>\n    <tr>\n      <td>:———</td>\n      <td>:—–</td>\n    </tr>\n    <tr>\n      <td>Fat</td>\n      <td>9</td>\n    </tr>\n    <tr>\n      <td>Proteins</td>\n      <td>4</td>\n    </tr>\n    <tr>\n      <td>Carbs</td>\n      <td>4</td>\n    </tr>\n    <tr>\n      <td><em>Ethanol</em></td>\n      <td><em>7</em></td>\n    </tr>\n  </tbody>\n</table>\n\n<p>The list isn’t comprehensive; I specifically included the macros we’re discussing, and I intentionally left Ethanol (Drinking Alcohol) in the list. I’ll circle back to that later.</p>\n\n<p>This list is based on pure protein, fat, and carbohydrates. In actuality, foods we eat are all combinations of the above. For example, ground beef is a mix of protein and fat, and is usually expressed as a percentage or ratio - eg. 80% lean, or 80/20 (where 80% is lean protein and 20% is fat). </p>\n\n<h2 id=\"summary-of-zone\">Summary of Zone</h2>\n\n<p>Most of this, I’ve pulled from <a href=\"[library.crossfit.com/free/pdf/...](http://library.crossfit.com/free/pdf/cfjissue21_May04.pdf)\">Issue 21 of the CrossFit Journal</a> from May 2004.</p>\n\n<p>Zone diet is based on macro counting but applies an abstraction layer in the form of “Blocks”. One block is 7g of protein, 9 grams of carbohydrates, or 3g of fat<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup>. A meal contains <code>N</code> blocks of protein, fat, and carbohydrates, so a 1-block meal would have one block of each, and works out to about 90 calories<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote\">2</a></sup>. </p>\n\n<p>Zone diet consumption is metered by applying a number of blocks to daily meals, with three meals and two snacks per day. Someone who is a “Four Blocker” has meals that are four blocks in size, or about 360 cal. Snacks, similarly, are a number of blocks from 1-4+. The number of blocks per meal is roughly determined by an individual’s sex and size. <em>Thus, Zone is really a framework for determining portion size and ensuring a balanced diet.</em></p>\n\n<p>The journal helpfully provides a list of foods that comprise one block of each macro. </p>\n\n<h2 id=\"calorie-and-macro-counting\">Calorie and Macro Counting</h2>\n\n<p>Calorie counters usually start from a calculation of their Total Daily Energy  Expenditure (TDEE), which is a combination of their Basal Metabolic Rate (BMR) and average caloric burn. BMR is the base number of calories a person needs to maintain weight without exercise. Adding average additional caloric load - which can come from an active commute, a physical job, or good old exercise - gives TDEE. There are a lot of calculators for estimating TDEE, and it’s easy to rathole on which is best for what purposes. I’m not getting into that here. </p>\n\n<p>Consuming fewer calories than your TDEE is consuming a deficit of calories, and leads to weight loss. Consuming more than your TDEE is a surplus, and leads to weight gain. Simple. </p>\n\n<p>In general, the guidance is .8-1.2g of protein per pound of bodyweight. This amount of protein is good for growing and maintaining muscle mass, and leads to a feeling of satiation. Apart from that, though, I never found good guidance about splits of fats and carbs. When I was most successful, I was eating about 20% of my daily intake as carbs, 40% from protein, and 40% from fat. It took some experimentation to figure that out, but I made small adjustments to my diet over a period of years. I’ll also say that I’ve never been working out 5-6 days each week, but 3-4 is pretty typical, and has been for years. Nutritional needs are likely different with that degree or exertion.</p>\n\n<p>Both in Zone and counting, there’s an element of tracking your consumption, and ensuring the portions being tracked are accurate. That takes dedication either way. </p>\n\n<h3 id=\"bulks-and-cuts\">Bulks and Cuts</h3>\n\n<p>With macro counting, there’s also a concept of bulks and cuts. It’s difficult to gain strength (adding lean muscle) in a caloric deficit, and it’s virtually impossible to lose fat at a caloric surplus. </p>\n\n<p>To lose about a pound per week, your consumption should be about 500 cal below TDEE. 500 calories above TDEE will gain you about a pound per week. Couple this with strength training, and smart application of cardio, and you can add muscle mass and lose fat very effectively.</p>\n\n<h2 id=\"questions\">Questions</h2>\n\n<p>This sets up my questions. </p>\n\n<ol>\n  <li>In Zone, it seems like there’s no concept of bulks and cuts. Do I understand that correctly? If I do, why no bulks and cuts?</li>\n  <li>If there are bulks and cuts, would I go to a “heavy gain” (5 block meals, 4 block snacks) for a bulk, and a more moderate 5 block meal/3 block snack or 4/4 for a cut?</li>\n  <li>Do I adjust for exercise? While macro counting, I add calories burned in exercise to my TDEE, and scale my percentage of macros accordingly. That doesn’t seem to be the case with Zone, or it’s not addressed. </li>\n  <li>How do you handle non-workout days with zone? It seems to assume a CrossFit “ideal” of 5-6 days per week of strenuous exercise. </li>\n</ol>\n\n<h2 id=\"where-i-landed\">Where I landed</h2>\n\n<p>I see a lot of smarts in Zone, but the value is in the framework, not the application. I disagree with the splits of macros that Zone applies. Keeping carbs low over a period of time teaches your body to break down fat for fuel, which is super valuable<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote\">3</a></sup>. </p>\n\n<p>I know that my TDEE is currently pretty close to 2300 cal. I shoot for 1800 cal while cutting, and 2500 while bulking. I’ll likely take this as a motivator to rethink my percentages and how I bulk. In the past, I scaled protein and filled in with whatever. Once I hit my macros for the day, it was on. I could eat whatever to make up the last calories. Now I’ll try to maintain my splits more consistently. </p>\n\n<h2 id=\"alcohol\">Alcohol</h2>\n\n<p>I promised to come back to booze, didn’t I? The 7cal/gram of ethanol does help explain why so many people say they really got traction once they dramatically reduced alcohol consumption. It’s worth keeping in mind that %ABV is the method of determining how much ethanol is in a drink, and a drink has other nutrients as well. Beer, for example, has a both alcohol sugars, and complex carbohydrates. A 5 ounce pour of wine is approximately 150g. Far from scientific, but opening my wine cabinet and pulling out a red, it’s 13.9% ABV. Let’s do some quick math: </p>\n\n<ul>\n  <li>14% (Rounded 13.9% up) of 150g is 21g</li>\n  <li>21g at 7 cal/g is 147 cal per glass of wine, plus residual sugars</li>\n</ul>\n\n<p>Booze trips up your splits no matter what. Now, I’m a big fan of moderation. Moderation in everything, including moderation.Just be conscious of the impact these things have.</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>There’s an assumption that any 7g of protein will itself contain 1.5 g of fat, so a block contains only 1.5 <em>additional</em> grams of fat.  <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n    <li id=\"fn:2\">\n      <p>Protein: 7g * 4cal = 28cal of protein, Carbs: 9g * 4 = 36, Fat: 3g * 9cal = 27cal\n28+36+28=91 cal <a href=\"#fnref:2\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n    <li id=\"fn:3\">\n      <p>I don’t know much about it, but I can’t see how this approach would be good for younger athletes. Brain development requires loads of carbs and fat. Quick searches didn’t lead to any good studies to read, but that doesn’t meant they haven’t been done. I just don’t know of them.  <a href=\"#fnref:3\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+			"date_published": "2018-01-02T17:27:00-08:00",
+			"url": "https://micro.jehanalvani.com/2018/01/02/questions-about-zone.html"
+		},
 		
 		{
 			"id": "http://jalvani.micro.blog/2017/12/06/overcooked-the-eggs.html",
 	      	
 			"content_html": "<p>Overcooked the eggs, but man that’s a good looking bowl. </p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2017/2981ed0f7e.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-05T18:16:00-08:00",
-			"url": "http://micro.jehanalvani.com/2017/12/05/overcooked-the-eggs.html"
+			"url": "https://micro.jehanalvani.com/2017/12/05/overcooked-the-eggs.html"
 		},
 		
 		{
@@ -18,7 +28,7 @@
 	      	
 			"content_html": "<p>WhiteFox True Fox Keyboard <a href=\"http://jehanalvani.com/blog/2017/12/1/whitefox-true-fox-keyboard\">jehanalvani.com</a> </p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2017/9aa3962725.jpg\" width=\"600\" height=\"302\" /></p>\n",
 			"date_published": "2017-12-01T16:50:00-08:00",
-			"url": "http://micro.jehanalvani.com/2017/12/01/whitefox-true-fox.html"
+			"url": "https://micro.jehanalvani.com/2017/12/01/whitefox-true-fox.html"
 		},
 		
 		{
@@ -26,7 +36,7 @@
 	      	
 			"content_html": "<p>One more: </p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PxQvW7NNmno\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n",
 			"date_published": "2017-11-29T14:04:00-08:00",
-			"url": "http://micro.jehanalvani.com/2017/11/29/one-more.html"
+			"url": "https://micro.jehanalvani.com/2017/11/29/one-more.html"
 		},
 		
 		{
@@ -34,7 +44,7 @@
 	      	
 			"content_html": "<p>And, since I can’t help myself when it comes to Jim Henson, here’s the old (strangely violent) Wilkins Coffee ads he did, featuring early muppets:</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HVewx3-9x24\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n",
 			"date_published": "2017-11-29T14:04:00-08:00",
-			"url": "http://micro.jehanalvani.com/2017/11/29/and-since-i.html"
+			"url": "https://micro.jehanalvani.com/2017/11/29/and-since-i.html"
 		},
 		
 		{
@@ -44,7 +54,7 @@
 			
 			"content_html": "<p>Adafruit posted this <a href=\"[blog.adafruit.com/2017/11/2...](https://blog.adafruit.com/2017/11/27/jim-henson-wanted-to-free-us-from-paperwork/)\">on their blog</a> today, and I’d never seen it before. From the Jim Henson Company’s <a href=\"[www.youtube.com/watch](https://www.youtube.com/watch?v=_IZw2CoYztk)\">YouTube channel</a>:</p>\n\n<blockquote>\n  <p>In 1967, Henson was contracted by IBM to make a film extolling the virtues of their new technology, the MT/ST, a primitive word processor. The film would explore how the MT/ST would help control the massive amount of documents generated by a typical business office. Paperwork Explosion, produced in October 1967, is a quick-cut montage of images and words illustrating the intensity and pace of modern business. Henson collaborated with Raymond Scott on the electronic sound track.</p>\n</blockquote>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_IZw2CoYztk\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\n",
 			"date_published": "2017-11-29T13:54:00-08:00",
-			"url": "http://micro.jehanalvani.com/2017/11/29/jim-hensons-bizarre.html"
+			"url": "https://micro.jehanalvani.com/2017/11/29/jim-hensons-bizarre.html"
 		},
 		
 		{
@@ -52,7 +62,7 @@
 	      	
 			"content_html": "<p>🛫</p>\n",
 			"date_published": "2017-11-28T14:36:00-08:00",
-			"url": "http://micro.jehanalvani.com/2017/11/28/223615.html"
+			"url": "https://micro.jehanalvani.com/2017/11/28/223615.html"
 		}
 		
 	]
