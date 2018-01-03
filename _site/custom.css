@@ -350,6 +350,8 @@ ul, ol, dl, li {
 .menu li a { text-decoration: none}
 .menu li a:hover { text-decoration: underline}
 
+.page-title { text-align: left }
+
 thead {
     font-family: "PT Sans", Helvetica, arial, sans-serif;
     font-size: 12pt		!important;
@@ -368,7 +370,7 @@ thead {
     text-align: left;
 }
 
-.post-teaser__date { text-align: right;}
+.about { text-align: right;}
 
 .logo { 
     font-family: "futura-pt", Helvetica, arial, sans-serif;
