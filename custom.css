@@ -343,6 +343,7 @@ ul, ol, dl, li {
 	border-bottom: #444;
 	border-bottom-style: solid;
 	border-bottom-width: 1pt;
+	text-align: left;
 }
 
 .menu li a { text-decoration: none}
