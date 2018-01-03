@@ -47,7 +47,7 @@ a {
 }
 
 a:hover {
-    color: #60a5dd;
+    color: #444;
     text-decoration: none
 }
 
@@ -301,7 +301,7 @@ h3 {
 
 p {
     font-family: "PT Sans", Helvetica, arial, sans-serif;
-    font-size: 1.2em		!important; 
+    font-size: .8em		!important; 
     line-height: 1.3em;
     text-transform: none;
     text-decoration: none;
