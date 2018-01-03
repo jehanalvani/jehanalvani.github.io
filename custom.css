@@ -1,11 +1,5 @@
 @import url("https://use.typekit.net/pux0cun.css");
 
-p{
-  font-size: .8em;
-  line-height:1.2em;
-  font-weight: 200
-}
-
 article,
 aside, details, figcaption, figure, footer, header, hgroup, nav, section {
     display: block
@@ -271,8 +265,89 @@ pre, p code {
     padding: 0 5px 0 5px
 }
 
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 1em 0 .5em
+}
+
+h1 {
+    font-family: Helvetica, arial, sans-serif;
+    font-weight: bold;
+    font-family: "futura-pt";
+    font-size: 3em;
+    line-height: 1.2em;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: 0px;
+    font-weight: 500;
+    font-style: normal
+}
+
+h2 {
+    font-family: Helvetica, arial, sans-serif;
+    font-weight: bold;
+    font-family: "futura-pt";
+    font-size: 18px;
+    line-height: 1.2em;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal
+}
+
+h3 {
+    font-family: Helvetica, arial, sans-serif;
+    font-weight: bold;
+    font-family: "futura-pt";
+    font-size: 13px;
+    line-height: 1.2em;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal
+}
+
+p {
+    font-family: Helvetica, arial, sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    font-family: "PT Sans";
+    font-size: 15px;
+    line-height: 1.6em;
+    text-transform: none;
+    text-decoration: none;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0 0 1em
+}
+
+blockquote {
+    margin: 1em 0;
+    padding: 0 0 0 1em;
+    border: 1px solid #777;
+    border-width: 0 0 0 1px
+}
+
+ul, ol, dl {
+    font-family: Helvetica, arial, sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    font-family: "PT Sans";
+    font-size: 15px;
+    line-height: 1.6em;
+    text-transform: none;
+    text-decoration: none;
+    font-weight: 400;
+    font-style: normal;
+/*     margin: 1em 0 */
+}
+
 .footnote {
     vertical-align: super;
     font-size: .7em;
     padding: .1em
 }
+
+
