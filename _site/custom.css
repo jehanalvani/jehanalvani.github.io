@@ -336,10 +336,10 @@ ul, ol, dl {
 
 .logo { 
     font-family: "futura-pt", Helvetica, arial, sans-serif;
-    font-size: 6em;
+    font-size: 5em;
     font-weight: normal;
 /*     line-height: 3.2em; */
-    text-transform: none;
+    text-transform: uppercase;
     text-decoration: none;
     font-weight: 400;
     font-style: normal;
