@@ -4,14 +4,14 @@
     <title>Jehan Alvani</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jalvani&quot;&gt;@jalvani on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.jehanalvani.com/</link>
-    <pubDate>Tue, 02 Jan 2018 17:32:22 -0800</pubDate>
-    <lastBuildDate>Tue, 02 Jan 2018 17:32:22 -0800</lastBuildDate>
+    <pubDate>Tue, 02 Jan 2018 17:33:32 -0800</pubDate>
+    <lastBuildDate>Tue, 02 Jan 2018 17:33:32 -0800</lastBuildDate>
     
       <item>
       	
         <title>Questions about Zone v. Calorie Counting</title>
         
-        <description>&lt;p&gt;I’ve been reading about the Zone diet, recently. I’m coming at this as a long-time calorie and macro counter. I’m left with a few questions, and thought it might be interesting to document my thoughts. &lt;/p&gt;
+        <description>&lt;p&gt;I&amp;#8217;ve been reading about the Zone diet, recently. I&amp;#8217;m coming at this as a long-time calorie and macro counter. I&amp;#8217;m left with a few questions, and thought it might be interesting to document my thoughts. &lt;/p&gt;
 
 &lt;p&gt;I’ll preface this discussion with the fact that I’m certainly not a nutritionist. I’m a fitness enthusiast who had my share of weight issues which stemmed from being a really active kid and teen who didn’t know &lt;em&gt;how&lt;/em&gt; to eat. As a result, when I got to college and wasn’t as active in my sport, I gained a ton of weight. Over the years, I learned about fitness and nutrition, and I’ve gotten pretty good at manipulating both to achieve my goals. &lt;/p&gt;
 
@@ -19,64 +19,68 @@
 
 &lt;h2 id=&quot;calories&quot;&gt;Calories&lt;/h2&gt;
 
-&lt;p&gt;Like I said, I’m a longtime macro-counter. The three “macro” nutrients are proteins, carbohydrates, and fats. There are others: fibers, acids, etc., but these three are relevant to this discussion.&lt;/p&gt;
+&lt;p&gt;Like I said, I’m a longtime macro-counter. The three &amp;#8220;macro&amp;#8221; nutrients are proteins, carbohydrates, and fats. There are others: fibers, acids, etc., but these three are relevant to this discussion.&lt;/p&gt;
 
-&lt;p&gt;They break down something &lt;a href=&quot;[en.wikipedia.org/wiki/Food...](https://en.wikipedia.org/wiki/Food_energy#Nutrition_labels)&quot;&gt;like this&lt;/a&gt;: &lt;/p&gt;
+&lt;p&gt;They break down something &lt;a href=&quot;https://en.wikipedia.org/wiki/Food_energy#Nutrition_labels&quot;&gt;like this&lt;/a&gt;: &lt;/p&gt;
 
 &lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Nutrient&lt;/td&gt;
-      &lt;td&gt;cal/g&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;:———&lt;/td&gt;
-      &lt;td&gt;:—–&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Fat&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Proteins&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Carbs&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;em&gt;Ethanol&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;7&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;colgroup&gt;
+&lt;col style=&quot;text-align:left;&quot; /&gt;
+&lt;col style=&quot;text-align:left;&quot; /&gt;
+&lt;/colgroup&gt;
+
+&lt;thead&gt;
+&lt;tr&gt;
+	&lt;th style=&quot;text-align:left;&quot;&gt;Nutrient&lt;/th&gt;
+	&lt;th style=&quot;text-align:left;&quot;&gt;cal/g&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align:left;&quot;&gt;Fat&lt;/td&gt;
+	&lt;td style=&quot;text-align:left;&quot;&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align:left;&quot;&gt;Proteins&lt;/td&gt;
+	&lt;td style=&quot;text-align:left;&quot;&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align:left;&quot;&gt;Carbs&lt;/td&gt;
+	&lt;td style=&quot;text-align:left;&quot;&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td style=&quot;text-align:left;&quot;&gt;&lt;em&gt;Ethanol&lt;/em&gt;&lt;/td&gt;
+	&lt;td style=&quot;text-align:left;&quot;&gt;&lt;em&gt;7&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The list isn’t comprehensive; I specifically included the macros we’re discussing, and I intentionally left Ethanol (Drinking Alcohol) in the list. I’ll circle back to that later.&lt;/p&gt;
+&lt;p&gt;The list isn&amp;#8217;t comprehensive; I specifically included the macros we&amp;#8217;re discussing, and I intentionally left Ethanol (Drinking Alcohol) in the list. I&amp;#8217;ll circle back to that later.&lt;/p&gt;
 
 &lt;p&gt;This list is based on pure protein, fat, and carbohydrates. In actuality, foods we eat are all combinations of the above. For example, ground beef is a mix of protein and fat, and is usually expressed as a percentage or ratio - eg. 80% lean, or 80/20 (where 80% is lean protein and 20% is fat). &lt;/p&gt;
 
-&lt;h2 id=&quot;summary-of-zone&quot;&gt;Summary of Zone&lt;/h2&gt;
+&lt;h2 id=&quot;summaryofzone&quot;&gt;Summary of Zone&lt;/h2&gt;
 
-&lt;p&gt;Most of this, I’ve pulled from &lt;a href=&quot;[library.crossfit.com/free/pdf/...](http://library.crossfit.com/free/pdf/cfjissue21_May04.pdf)&quot;&gt;Issue 21 of the CrossFit Journal&lt;/a&gt; from May 2004.&lt;/p&gt;
+&lt;p&gt;Most of this, I&amp;#8217;ve pulled from &lt;a href=&quot;http://library.crossfit.com/free/pdf/cfjissue21_May04.pdf&quot;&gt;Issue 21 of the CrossFit Journal&lt;/a&gt; from May 2004.&lt;/p&gt;
 
-&lt;p&gt;Zone diet is based on macro counting but applies an abstraction layer in the form of “Blocks”. One block is 7g of protein, 9 grams of carbohydrates, or 3g of fat&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. A meal contains &lt;code&gt;N&lt;/code&gt; blocks of protein, fat, and carbohydrates, so a 1-block meal would have one block of each, and works out to about 90 calories&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. &lt;/p&gt;
+&lt;p&gt;Zone diet is based on macro counting but applies an abstraction layer in the form of &amp;#8220;Blocks&amp;#8221;. One block is 7g of protein, 9 grams of carbohydrates, or 3g of fat&lt;a href=&quot;#fn:15392&quot; id=&quot;fnref:15392&quot; title=&quot;see footnote&quot; class=&quot;footnote&quot;&gt;[1]&lt;/a&gt;. A meal contains &lt;code&gt;N&lt;/code&gt; blocks of protein, fat, and carbohydrates, so a 1-block meal would have one block of each, and works out to about 90 calories&lt;a href=&quot;#fn:32199&quot; id=&quot;fnref:32199&quot; title=&quot;see footnote&quot; class=&quot;footnote&quot;&gt;[2]&lt;/a&gt;. &lt;/p&gt;
 
-&lt;p&gt;Zone diet consumption is metered by applying a number of blocks to daily meals, with three meals and two snacks per day. Someone who is a “Four Blocker” has meals that are four blocks in size, or about 360 cal. Snacks, similarly, are a number of blocks from 1-4+. The number of blocks per meal is roughly determined by an individual’s sex and size. &lt;em&gt;Thus, Zone is really a framework for determining portion size and ensuring a balanced diet.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Zone diet consumption is metered by applying a number of blocks to daily meals, with three meals and two snacks per day. Someone who is a &amp;#8220;Four Blocker&amp;#8221; has meals that are four blocks in size, or about 360 cal. Snacks, similarly, are a number of blocks from 1&amp;#8211;4+. The number of blocks per meal is roughly determined by an individual&amp;#8217;s sex and size. &lt;em&gt;Thus, Zone is really a framework for determining portion size and ensuring a balanced diet.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The journal helpfully provides a list of foods that comprise one block of each macro. &lt;/p&gt;
 
-&lt;h2 id=&quot;calorie-and-macro-counting&quot;&gt;Calorie and Macro Counting&lt;/h2&gt;
+&lt;h2 id=&quot;calorieandmacrocounting&quot;&gt;Calorie and Macro Counting&lt;/h2&gt;
 
-&lt;p&gt;Calorie counters usually start from a calculation of their Total Daily Energy  Expenditure (TDEE), which is a combination of their Basal Metabolic Rate (BMR) and average caloric burn. BMR is the base number of calories a person needs to maintain weight without exercise. Adding average additional caloric load - which can come from an active commute, a physical job, or good old exercise - gives TDEE. There are a lot of calculators for estimating TDEE, and it’s easy to rathole on which is best for what purposes. I’m not getting into that here. &lt;/p&gt;
+&lt;p&gt;Calorie counters usually start from a calculation of their Total Daily Energy Expenditure (TDEE), which is a combination of their Basal Metabolic Rate (BMR) and average caloric burn. BMR is the base number of calories a person needs to maintain weight without exercise. Adding average additional caloric load - which can come from an active commute, a physical job, or good old exercise - gives TDEE. There are a lot of calculators for estimating TDEE, and it’s easy to rathole on which is best for what purposes. I’m not getting into that here. &lt;/p&gt;
 
 &lt;p&gt;Consuming fewer calories than your TDEE is consuming a deficit of calories, and leads to weight loss. Consuming more than your TDEE is a surplus, and leads to weight gain. Simple. &lt;/p&gt;
 
-&lt;p&gt;In general, the guidance is .8-1.2g of protein per pound of bodyweight. This amount of protein is good for growing and maintaining muscle mass, and leads to a feeling of satiation. Apart from that, though, I never found good guidance about splits of fats and carbs. When I was most successful, I was eating about 20% of my daily intake as carbs, 40% from protein, and 40% from fat. It took some experimentation to figure that out, but I made small adjustments to my diet over a period of years. I’ll also say that I’ve never been working out 5-6 days each week, but 3-4 is pretty typical, and has been for years. Nutritional needs are likely different with that degree or exertion.&lt;/p&gt;
+&lt;p&gt;In general, the guidance is .8&amp;#8211;1.2g of protein per pound of bodyweight. This amount of protein is good for growing and maintaining muscle mass, and leads to a feeling of satiation. Apart from that, though, I never found good guidance about splits of fats and carbs. When I was most successful, I was eating about 20% of my daily intake as carbs, 40% from protein, and 40% from fat. It took some experimentation to figure that out, but I made small adjustments to my diet over a period of years. I’ll also say that I’ve never been working out 5&amp;#8211;6 days each week, but 3&amp;#8211;4 is pretty typical, and has been for years. Nutritional needs are likely different with that degree or exertion.&lt;/p&gt;
 
 &lt;p&gt;Both in Zone and counting, there’s an element of tracking your consumption, and ensuring the portions being tracked are accurate. That takes dedication either way. &lt;/p&gt;
 
-&lt;h3 id=&quot;bulks-and-cuts&quot;&gt;Bulks and Cuts&lt;/h3&gt;
+&lt;h3 id=&quot;bulksandcuts&quot;&gt;Bulks and Cuts&lt;/h3&gt;
 
 &lt;p&gt;With macro counting, there’s also a concept of bulks and cuts. It’s difficult to gain strength (adding lean muscle) in a caloric deficit, and it’s virtually impossible to lose fat at a caloric surplus. &lt;/p&gt;
 
@@ -87,15 +91,15 @@
 &lt;p&gt;This sets up my questions. &lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;In Zone, it seems like there’s no concept of bulks and cuts. Do I understand that correctly? If I do, why no bulks and cuts?&lt;/li&gt;
-  &lt;li&gt;If there are bulks and cuts, would I go to a “heavy gain” (5 block meals, 4 block snacks) for a bulk, and a more moderate 5 block meal/3 block snack or 4/4 for a cut?&lt;/li&gt;
-  &lt;li&gt;Do I adjust for exercise? While macro counting, I add calories burned in exercise to my TDEE, and scale my percentage of macros accordingly. That doesn’t seem to be the case with Zone, or it’s not addressed. &lt;/li&gt;
-  &lt;li&gt;How do you handle non-workout days with zone? It seems to assume a CrossFit “ideal” of 5-6 days per week of strenuous exercise. &lt;/li&gt;
+&lt;li&gt;In Zone, it seems like there’s no concept of bulks and cuts. Do I understand that correctly? If I do, why no bulks and cuts?&lt;/li&gt;
+&lt;li&gt;If there are bulks and cuts, would I go to a “heavy gain” (5 block meals, 4 block snacks) for a bulk, and a more moderate 5 block meal/3 block snack or 4/4 for a cut?&lt;/li&gt;
+&lt;li&gt;Do I adjust for exercise? While macro counting, I add calories burned in exercise to my TDEE, and scale my percentage of macros accordingly. That doesn’t seem to be the case with Zone, or it’s not addressed.&lt;/li&gt;
+&lt;li&gt;How do you handle non-workout days with zone? It seems to assume a CrossFit “ideal” of 5&amp;#8211;6 days per week of strenuous exercise.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;where-i-landed&quot;&gt;Where I landed&lt;/h2&gt;
+&lt;h2 id=&quot;whereilanded&quot;&gt;Where I landed&lt;/h2&gt;
 
-&lt;p&gt;I see a lot of smarts in Zone, but the value is in the framework, not the application. I disagree with the splits of macros that Zone applies. Keeping carbs low over a period of time teaches your body to break down fat for fuel, which is super valuable&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. &lt;/p&gt;
+&lt;p&gt;I see a lot of smarts in Zone, but the value is in the framework, not the application. I disagree with the splits of macros that Zone applies. Keeping carbs low over a period of time teaches your body to break down fat for fuel, which is super valuable&lt;a href=&quot;#fn:49006&quot; id=&quot;fnref:49006&quot; title=&quot;see footnote&quot; class=&quot;footnote&quot;&gt;[3]&lt;/a&gt;. &lt;/p&gt;
 
 &lt;p&gt;I know that my TDEE is currently pretty close to 2300 cal. I shoot for 1800 cal while cutting, and 2500 while bulking. I’ll likely take this as a motivator to rethink my percentages and how I bulk. In the past, I scaled protein and filled in with whatever. Once I hit my macros for the day, it was on. I could eat whatever to make up the last calories. Now I’ll try to maintain my splits more consistently. &lt;/p&gt;
 
@@ -104,25 +108,30 @@
 &lt;p&gt;I promised to come back to booze, didn’t I? The 7cal/gram of ethanol does help explain why so many people say they really got traction once they dramatically reduced alcohol consumption. It’s worth keeping in mind that %ABV is the method of determining how much ethanol is in a drink, and a drink has other nutrients as well. Beer, for example, has a both alcohol sugars, and complex carbohydrates. A 5 ounce pour of wine is approximately 150g. Far from scientific, but opening my wine cabinet and pulling out a red, it’s 13.9% ABV. Let’s do some quick math: &lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;14% (Rounded 13.9% up) of 150g is 21g&lt;/li&gt;
-  &lt;li&gt;21g at 7 cal/g is 147 cal per glass of wine, plus residual sugars&lt;/li&gt;
+&lt;li&gt;14% (Rounded 13.9% up) of 150g is 21g&lt;/li&gt;
+&lt;li&gt;21g at 7 cal/g is 147 cal per glass of wine, plus residual sugars&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Booze trips up your splits no matter what. Now, I’m a big fan of moderation. Moderation in everything, including moderation.Just be conscious of the impact these things have.&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;There’s an assumption that any 7g of protein will itself contain 1.5 g of fat, so a block contains only 1.5 &lt;em&gt;additional&lt;/em&gt; grams of fat.  &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Protein: 7g * 4cal = 28cal of protein, Carbs: 9g * 4 = 36, Fat: 3g * 9cal = 27cal
-28+36+28=91 cal &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;I don’t know much about it, but I can’t see how this approach would be good for younger athletes. Brain development requires loads of carbs and fat. Quick searches didn’t lead to any good studies to read, but that doesn’t meant they haven’t been done. I just don’t know of them.  &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+
+&lt;li id=&quot;fn:15392&quot;&gt;
+&lt;p&gt;There&amp;#8217;s an assumption that any 7g of protein will itself contain 1.5 g of fat, so a block contains only 1.5 &lt;em&gt;additional&lt;/em&gt; grams of fat.  &lt;a href=&quot;#fnref:15392&quot; title=&quot;return to article&quot; class=&quot;reversefootnote&quot;&gt;&amp;#160;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li id=&quot;fn:32199&quot;&gt;
+&lt;p&gt;Protein: 7g * 4cal = 28cal of protein, Carbs: 9g * 4 = 36, Fat: 3g * 9cal = 27cal&lt;br /&gt;
+28+36+28=91 cal &lt;a href=&quot;#fnref:32199&quot; title=&quot;return to article&quot; class=&quot;reversefootnote&quot;&gt;&amp;#160;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li id=&quot;fn:49006&quot;&gt;
+&lt;p&gt;I don’t know much about it, but I can’t see how this approach would be good for younger athletes. Brain development requires loads of carbs and fat. Quick searches didn’t lead to any good studies to read, but that doesn’t meant they haven’t been done. I just don’t know of them.  &lt;a href=&quot;#fnref:49006&quot; title=&quot;return to article&quot; class=&quot;reversefootnote&quot;&gt;&amp;#160;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;/ol&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 02 Jan 2018 17:27:00 -0800</pubDate>
