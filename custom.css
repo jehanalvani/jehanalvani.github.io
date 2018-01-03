@@ -319,7 +319,7 @@ blockquote {
 
 ul, ol, dl, li {
     font-family: "PT Sans", Helvetica, arial, sans-serif;
-    font-size: 1em		!important;
+    font-size: 12pt		!important;
     line-height: 1.3em	!important;
     text-transform: none	;
     text-decoration: none;
@@ -345,3 +345,5 @@ ul, ol, dl, li {
     font-style: normal;
     margin: 1em 0
 	}
+
+
