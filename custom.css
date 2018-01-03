@@ -245,8 +245,18 @@ input:invalid, textarea:invalid {
 table {
     border-collapse: collapse;
     border-spacing: 0;
-    width: 100%
+    width: 100%;
+    font-family: "PT Sans", Helvetica, arial, sans-serif;
+    font-size: 12pt		!important;
+    line-height: 1.3em	!important;
+    text-transform: none	;
+    text-decoration: none;
+    font-weight: 200		!important;
+    font-style: normal;
+    margin: 1em 0
+
 }
+
 
 td {
     vertical-align: top
@@ -318,6 +328,17 @@ blockquote {
 }
 
 ul, ol, dl, li {
+    font-family: "PT Sans", Helvetica, arial, sans-serif;
+    font-size: 12pt		!important;
+    line-height: 1.3em	!important;
+    text-transform: none	;
+    text-decoration: none;
+    font-weight: 200		!important;
+    font-style: normal;
+    margin: 1em 0
+}
+
+thead {
     font-family: "PT Sans", Helvetica, arial, sans-serif;
     font-size: 12pt		!important;
     line-height: 1.3em	!important;
