@@ -317,6 +317,7 @@ p {
     text-decoration: none;
     font-weight: 400;
     font-style: normal;
+    text-align: left;
 /*     margin: 0 0 1em */
 }
 
@@ -357,14 +358,14 @@ thead {
 
 .logo { 
     font-family: "futura-pt", Helvetica, arial, sans-serif;
-    font-size: 5em;
-    font-weight: normal;
-/*     line-height: 3.2em; */
+    font-size: 60pt;
+    line-height: 1.2em; 
     text-transform: uppercase;
     text-decoration: none;
     font-weight: 400;
     font-style: normal;
-    margin: 1em 0
+    text-align: left;
+/*     margin: 1em 0 */
 	}
 
 
