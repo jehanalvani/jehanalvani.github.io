@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jalvani.micro.blog/2018/01/12/got-opengarageio-homebridge.html",
+	      	
+			"content_html": "<p>Got OpenGarage.io + HomeBridge working, tonight. Honestly, I love this home automation stuff. It’s so fun.</p>\n",
+			"date_published": "2018-01-11T23:17:00-08:00",
+			"url": "https://micro.jehanalvani.com/2018/01/11/got-opengarageio-homebridge.html"
+		},
+		
+		{
 			"id": "http://jalvani.micro.blog/2018/01/08/body-measurement.html",
 	      	
 			"title": "Body Measurement",
