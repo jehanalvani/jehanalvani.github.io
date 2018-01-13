@@ -159,6 +159,11 @@ img {
     vertical-align: middle
 }
 
+iframe{
+  display: block  !important;
+  padding-bottom: 1em;
+}
+
 img:not([src]) {
     visibility: hidden
 }
