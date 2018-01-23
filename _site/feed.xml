@@ -4,8 +4,31 @@
     <title>Jehan Alvani</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/jalvani&quot;&gt;@jalvani on Micro.blog&lt;/a&gt;.</description>
     <link>https://micro.jehanalvani.com/</link>
-    <pubDate>Sat, 13 Jan 2018 09:05:49 -0800</pubDate>
-    <lastBuildDate>Sat, 13 Jan 2018 09:05:49 -0800</lastBuildDate>
+    <pubDate>Tue, 23 Jan 2018 12:00:18 -0800</pubDate>
+    <lastBuildDate>Tue, 23 Jan 2018 12:00:18 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <title>Reducing my Fever</title>
+        
+        <description>&lt;p&gt;I’ve been using &lt;a href=&quot;[feedafever.com](https://feedafever.com)&quot;&gt;Fever&lt;/a&gt; for nearly a decade; the site was launched in 2008, and I was an early adopter. I’ve waxed and waned my RSS reading, sometimes going through periods where Digg or Reddit or Twitter gave me more of my news, but over the past few years I’ve been back in Fever a lot. &lt;/p&gt;
+
+&lt;p&gt;I didn’t know, but Fever’s creator and author, Shaun Inman, &lt;a href=&quot;[shauninman.com/archive/2...](https://shauninman.com/archive/2016/12/24/goodbye_mint_goodbye_fever)&quot;&gt;killed&lt;/a&gt; Fever and &lt;a href=&quot;[haveamint.com](http://haveamint.com/)&quot;&gt;Mint&lt;/a&gt; over a year ago in December 2016! It’s a testament to how well written this little PHP app is, and to self-hosting software, that my instances of Fever have been so reliable for so long. I’ve done almost no maintenance, occasionally clearing disk space on the server, but that’s it. It’s great. I only found out they were deprecated when I visited the site looking for information on using regex to filter specific posts from a couple of my feeds. &lt;/p&gt;
+
+&lt;p&gt;I’m looking for alternatives. I’m demoing &lt;a href=&quot;[feedbin.com](https://feedbin.com)&quot;&gt;Feedbin&lt;/a&gt; right now, and I like it so far. I do miss Fever’s clever aggregation feature&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, but I might be able to get something close by liberally applying auto-read actions, which actually very easily solved my needs I was using regex filters for in Fever. Good job, Feedbin!&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Fever had this cool concept where some feeds could be marked as “Sparks”. They wouldn’t show up in your unread list, but they &lt;em&gt;would&lt;/em&gt; add to a “Hot” section. Feed items that used similar language or linked to the same URLs would be aggregated under “Hot”, with more popular terms and links getting a higher temperature, and thus being “hotter”. So clever, and super useful for especially for squeezing some benefit from the really high-volume feeds that I otherwise won’t read.  &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 23 Jan 2018 12:00:00 -0800</pubDate>
+        <link>https://micro.jehanalvani.com/2018/01/23/reducing-my-fever.html</link>
+        <guid isPermaLink="true">http://jalvani.micro.blog/2018/01/23/reducing-my-fever.html</guid>
+      </item>
     
       <item>
       	
