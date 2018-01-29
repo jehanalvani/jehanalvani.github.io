@@ -9,6 +9,11 @@ sitemap:
 <ul class="list-posts h-feed">
     {% for post in paginator.posts %}
         <li class="post-teaser h-entry">
+			{% if post.microblog == false %}
+			<h1 class="page-title post-title">
+				<a href="{{ post.url | prepend: site.baseurl }}"><div class="page-title__text post-title__text">{{ post.title }}</div></a>
+			</h1>
+			{% endif %}
 			<span class="post-teaser__title e-content">{{ post.content }}</span>
             <a href="{{ post.url | prepend: site.baseurl }}" class="u-url">
                 <span class="post-teaser__date"><time class="dt-published" datetime="{{ post.date }}">{{ post.date | date: "%d %B %Y" }}</time></span>
