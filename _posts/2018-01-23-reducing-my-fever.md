@@ -15,7 +15,7 @@ I'm looking for alternatives. I'm demoing [Feedbin][feedbin] right now, and I li
 [^1]: Fever had this cool concept where some feeds could be marked as "Sparks". They wouldn't show up in your unread list, but they _would_ add to a "Hot" section. Feed items that used similar language or linked to the same URLs would be aggregated under "Hot", with more popular terms and links getting a higher temperature, and thus being "hotter". So clever, and super useful for especially for squeezing some benefit from the really high-volume feeds that I otherwise won't read. 
 
 [fever]: [feedafever.com](https://feedafever.com)
-[killed]: [shauninman.com/archive/2...](https://shauninman.com/archive/2016/12/24/goodbye_mint_goodbye_fever)
+[killed]:[shauninman.com/archive/2...](https://shauninman.com/archive/2016/12/24/goodbye_mint_goodbye_fever)
 [mint]: [haveamint.com](http://haveamint.com/)
 [feedbin]: [feedbin.com](https://feedbin.com)
 
