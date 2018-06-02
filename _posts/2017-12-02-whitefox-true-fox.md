@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-01 16:50 -0800
+audio: 
+date: 2017-12-01 16:50:41 -0800
 guid: http://jalvani.micro.blog/2017/12/02/whitefox-true-fox.html
 ---
 WhiteFox True Fox Keyboard [jehanalvani.com](http://jehanalvani.com/blog/2017/12/1/whitefox-true-fox-keyboard) 
