@@ -2,7 +2,8 @@
 layout: post
 title: "Questions about Zone v. Calorie Counting"
 microblog: false
-date: 2018-01-02 17:27 -0800
+audio: 
+date: 2018-01-02 17:27:06 -0800
 guid: http://jalvani.micro.blog/2018/01/03/questions-about-zone.html
 ---
 <p>I&#8217;ve been reading about the Zone diet, recently. I&#8217;m coming at this as a long-time calorie and macro counter. I&#8217;m left with a few questions, and thought it might be interesting to document my thoughts. </p>
