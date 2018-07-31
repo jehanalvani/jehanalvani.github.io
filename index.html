@@ -1,5 +1,6 @@
 ---
 layout: default
+regenerate: true
 sitemap:
   priority: 0.9
 ---
@@ -7,7 +8,7 @@ sitemap:
 {% include page/title.html %}
 
 <ul class="list-posts h-feed">
-    {% for post in paginator.posts %}
+    {% for post in site.posts limit:25 %}
         <li class="post-teaser h-entry">
 			{% if post.microblog == false %}
 			<h1 class="page-title post-title">
@@ -21,10 +22,6 @@ sitemap:
         </li>
     {% endfor %}
 </ul>
-
-{% if paginator.previous_page or paginator.next_page %}
-    {% include pagination.html %}
-{% endif %}
 
 <footer>
 	<p class="text">{{ site.description }}</p>
