@@ -3,6 +3,36 @@
   
     
     <url>
+      <loc>https://micro.jehanalvani.com/2018/07/31/ive-called-deep.html/</loc>
+      
+        <lastmod>2018-07-31T10:16:58-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://micro.jehanalvani.com/2018/06/04/the-mariners-are.html/</loc>
+      
+        <lastmod>2018-06-04T20:42:08-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>https://micro.jehanalvani.com/2018/06/02/aubrey-found-her.html/</loc>
       
         <lastmod>2018-06-02T08:18:08-07:00</lastmod>
@@ -244,12 +274,27 @@
   
   
     
+    <url>
+      <loc>https://micro.jehanalvani.com/archive/index.json</loc>
+      
+        <lastmod>2018-07-31T10:17:15-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
   
     
     <url>
       <loc>https://micro.jehanalvani.com/feed.xml</loc>
       
-        <lastmod>2018-06-02T08:18:11-07:00</lastmod>
+        <lastmod>2018-07-31T10:17:15-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -264,7 +309,7 @@
     <url>
       <loc>https://micro.jehanalvani.com/</loc>
       
-        <lastmod>2018-06-02T08:18:11-07:00</lastmod>
+        <lastmod>2018-07-31T10:17:15-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -279,9 +324,24 @@
   
     
     <url>
+      <loc>https://micro.jehanalvani.com/podcast.xml</loc>
+      
+        <lastmod>2018-07-31T10:17:15-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>https://micro.jehanalvani.com/rsd.xml</loc>
       
-        <lastmod>2018-06-02T08:18:11-07:00</lastmod>
+        <lastmod>2018-07-31T10:17:15-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -298,7 +358,22 @@
     <url>
       <loc>https://micro.jehanalvani.com/about/</loc>
       
-        <lastmod>2018-06-02T08:18:11-07:00</lastmod>
+        <lastmod>2018-07-31T10:17:15-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://micro.jehanalvani.com/archive/</loc>
+      
+        <lastmod>2018-07-31T10:17:15-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
