@@ -34,7 +34,9 @@ paginate_path: "/page/:num/"
 timezone: "US/Pacific-New"
 site_id: "1894"
 gems: ["jekyll-paginate"]
+itunes_description: "Mostly harmless."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Jehan Alvani"
+itunes_email: ""
 podcast: false
