@@ -3,7 +3,7 @@ layout: post
 title: "Reducing my Fever"
 microblog: false
 audio: 
-date: 2018-01-23 12:00:16 -0800
+date: 2018-01-23 13:00:16 -0700
 guid: http://jalvani.micro.blog/2018/01/23/reducing-my-fever.html
 ---
 I've been using [Fever][fever] for nearly a decade; the site was launched in 2008, and I was an early adopter. I've waxed and waned my RSS reading, sometimes going through periods where Digg or Reddit or Twitter gave me more of my news, but over the past few years I've been back in Fever a lot. 
