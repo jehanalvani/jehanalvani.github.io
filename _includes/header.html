@@ -6,7 +6,7 @@
             <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
 			{% assign sorted_pages = site.pages | sort: "order" %}
 			{% for page in sorted_pages %}
-				{% if page.title %}
+				{% if page.title and page.navigation %}
 		            <li class="menu__entry"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 				{% endif %}
 			{% endfor %}
