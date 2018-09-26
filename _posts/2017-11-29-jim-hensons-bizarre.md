@@ -3,7 +3,7 @@ layout: post
 title: "Jim Henson's Bizarre Anti-Paperwork Ad for IBM"
 microblog: false
 audio: 
-date: 2017-11-29 13:54:25 -0800
+date: 2017-11-29 14:54:25 -0700
 guid: http://jalvani.micro.blog/2017/11/29/jim-hensons-bizarre.html
 ---
 
