@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jehan Alvani",
+	"icon": "https://micro.blog/jalvani/avatar.jpg",
 	"home_page_url": "https://micro.jehanalvani.com/",
 	"feed_url": "https://micro.jehanalvani.com/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://jalvani.micro.blog/2018/09/26/i-love-siri.html",
+	      	
+			"content_text": "I love Siri Shortcuts and I love iCloud Photos, but...",
+			"date_published": "2018-09-25T19:14:48-07:00",
+			"url": "https://micro.jehanalvani.com/2018/09/25/i-love-siri.html"
+		},
 		
 		{
 			"id": "http://jalvani.micro.blog/2018/09/10/it-makes-me.html",
