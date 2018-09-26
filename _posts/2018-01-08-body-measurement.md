@@ -3,7 +3,7 @@ layout: post
 title: "Body Measurement"
 microblog: false
 audio: 
-date: 2018-01-08 08:45:19 -0800
+date: 2018-01-08 09:45:19 -0700
 guid: http://jalvani.micro.blog/2018/01/08/body-measurement.html
 ---
 I've been lax in keeping track of my quantifiable health data since I moved from Baltimore. I've never been a big fan of having a scale at home since I can get obsessive over checking my weight which can lead to unhealthy decisions. Using the scale only weekly and at the gym was a big part of how I got into shape. 
