@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jalvani.micro.blog/2018/09/29/wallace-falls-with.html",
+	      	
+			"content_html": "<p>Wallace Falls with a visiting friend and a 30# unstable pack #getoutside #dadface</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/e78b997449.jpg\" width=\"600\" height=\"450\" /><img src=\"http://micro.jehanalvani.com/uploads/2018/dfe758335d.jpg\" width=\"600\" height=\"452\" /><img src=\"http://micro.jehanalvani.com/uploads/2018/a89e87cd25.jpg\" width=\"600\" height=\"452\" /><img src=\"http://micro.jehanalvani.com/uploads/2018/f3abffc0f9.jpg\" width=\"600\" height=\"450\" /><img src=\"http://micro.jehanalvani.com/uploads/2018/7e36579a0f.jpg\" width=\"600\" height=\"452\" /></p>\n",
+			"date_published": "2018-09-29T11:22:50-07:00",
+			"url": "https://micro.jehanalvani.com/2018/09/29/wallace-falls-with.html"
+		},
+		
+		{
 			"id": "http://jalvani.micro.blog/2018/09/26/i-love-siri.html",
 	      	
 			"content_html": "<p>I love Siri Shortcuts and I love iCloud Photos, but putting the two together is a dance of crashes to the desktop, failures without error, and disappointment.</p>\n",
@@ -23,19 +31,59 @@
 		},
 		
 		{
+			"id": "http://jalvani.micro.blog/2018/08/24/a-smoky-day.html",
+	      	
+			"content_html": "<p>A smoky day outside with friends is still a damn fine day. \nA recent #tbt to Tuesday on Mt. St. Helens with @jfuruno1, @jjfuruno, and @lindsay_alvani</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/d0fd0c4a74.jpg\" width=\"600\" height=\"449\" /><img src=\"http://micro.jehanalvani.com/uploads/2018/a44beb4153.jpg\" width=\"600\" height=\"449\" /><img src=\"http://micro.jehanalvani.com/uploads/2018/24b2adcbd7.jpg\" width=\"600\" height=\"449\" /><img src=\"http://micro.jehanalvani.com/uploads/2018/dbb2320183.jpg\" width=\"600\" height=\"449\" /><img src=\"http://micro.jehanalvani.com/uploads/2018/2764dc5e02.jpg\" width=\"600\" height=\"452\" /><img src=\"http://micro.jehanalvani.com/uploads/2018/7837424e0b.jpg\" width=\"600\" height=\"449\" /></p>\n",
+			"date_published": "2018-08-23T18:19:57-07:00",
+			"url": "https://micro.jehanalvani.com/2018/08/23/a-smoky-day.html"
+		},
+		
+		{
+			"id": "http://jalvani.micro.blog/2018/08/08/batman-watering-can.html",
+	      	
+			"content_html": "<p>Batman watering can, a hose, a four-year-old’s ingenuity, and sunshine #summer</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/9bbf10adf9.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-07T18:44:28-07:00",
+			"url": "https://micro.jehanalvani.com/2018/08/07/batman-watering-can.html"
+		},
+		
+		{
 			"id": "http://jalvani.micro.blog/2018/07/31/ive-called-deep.html",
 	      	
-			"content_html": "<p>I’ve called deep down a Fortnite rabbithole. The past 10 days have been dark. At least I still remember my kids names.</p>\n",
+			"content_html": "<p>I’ve crawled deep down a Fortnite rabbithole. The past 10 days have been dark. At least I still remember my kids’ names.</p>\n",
 			"date_published": "2018-07-31T10:16:58-07:00",
 			"url": "https://micro.jehanalvani.com/2018/07/31/ive-called-deep.html"
 		},
 		
 		{
-			"id": "http://jalvani.micro.blog/2018/06/05/the-mariners-are.html",
+			"id": "http://jalvani.micro.blog/2018/07/10/aubrey-the-urukhai.html",
 	      	
-			"content_html": "<table>\n  <tbody>\n    <tr>\n      <td>[The Mariners Are Bucking a Trend</td>\n      <td>FanGraphs Baseball](https://www.fangraphs.com/blogs/the-mariners-are-bucking-a-trend/)</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>Good job to the Mariners for doing the Right Thing.</p>\n",
-			"date_published": "2018-06-04T20:42:08-07:00",
-			"url": "https://micro.jehanalvani.com/2018/06/04/the-mariners-are.html"
+			"content_html": "<p>Aubrey the Uruk-hai #lookslikemeatsbackonthemenuboys</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/51c5bb5410.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-10T12:32:01-07:00",
+			"url": "https://micro.jehanalvani.com/2018/07/10/aubrey-the-urukhai.html"
+		},
+		
+		{
+			"id": "http://jalvani.micro.blog/2018/07/08/summer.html",
+	      	
+			"content_html": "<p>Summer</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/ab01d4b859.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-08T16:58:47-07:00",
+			"url": "https://micro.jehanalvani.com/2018/07/08/summer.html"
+		},
+		
+		{
+			"id": "http://jalvani.micro.blog/2018/06/22/made-a-friend.html",
+	      	
+			"content_html": "<p>Made a friend while running errands this morning.</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/f98356ff01.jpg\" width=\"600\" height=\"449\" /></p>\n",
+			"date_published": "2018-06-22T14:22:08-07:00",
+			"url": "https://micro.jehanalvani.com/2018/06/22/made-a-friend.html"
+		},
+		
+		{
+			"id": "http://jalvani.micro.blog/2018/06/18/142013.html",
+	      	
+			"content_html": "<p>Summer</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/fe20a348bc.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-18T07:20:13-07:00",
+			"url": "https://micro.jehanalvani.com/2018/06/18/142013.html"
 		},
 		
 		{
@@ -71,11 +119,43 @@
 		},
 		
 		{
+			"id": "http://jalvani.micro.blog/2018/02/16/you-should-see.html",
+	      	
+			"content_html": "<p>You should see the other guy! Actually, he’s a surgeon, looks like a regular dude. My eye had a bad motivator; a little nip &amp; tuck, and my lazy eye is on the mend.</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/d2b86db79b.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.jehanalvani.com/uploads/2018/980a6c987b.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.jehanalvani.com/uploads/2018/56bf088b63.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-16T11:52:00-08:00",
+			"url": "https://micro.jehanalvani.com/2018/02/16/you-should-see.html"
+		},
+		
+		{
 			"id": "http://jalvani.micro.blog/2018/02/03/i-just-beat.html",
 	      	
 			"content_html": "<p>I just beat Kingdom: New Lands, and it’s the most fun I’ve had playing an iOS game in ages. It’s so well suited to touch, it’s impressive it was on PC first.</p>\n\n<p><a href=\"https://itunes.apple.com/us/app/kingdom-new-lands/id1118513354?mt=8\">itunes.apple.com/us/app/ki…</a></p>\n",
 			"date_published": "2018-02-03T13:40:55-08:00",
 			"url": "https://micro.jehanalvani.com/2018/02/03/i-just-beat.html"
+		},
+		
+		{
+			"id": "http://jalvani.micro.blog/2018/02/03/according-to-iain.html",
+	      	
+			"content_html": "<p>According to Iain, I guess I have 203 toes?</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/d196223332.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-03T10:39:27-08:00",
+			"url": "https://micro.jehanalvani.com/2018/02/03/according-to-iain.html"
+		},
+		
+		{
+			"id": "http://jalvani.micro.blog/2018/01/31/troubles-coming.html",
+	      	
+			"content_html": "<p>Trouble’s coming</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/c5135071bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-30T16:54:19-08:00",
+			"url": "https://micro.jehanalvani.com/2018/01/30/troubles-coming.html"
+		},
+		
+		{
+			"id": "http://jalvani.micro.blog/2018/01/26/ive-been-working.html",
+	      	
+			"content_html": "<p>I’ve been working some swimming in, so I needed some new jammers. I’m not fit enough to wear these #butimdoingitanyhow</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/c56254a29a.jpg\" width=\"576\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-26T13:24:37-08:00",
+			"url": "https://micro.jehanalvani.com/2018/01/26/ive-been-working.html"
 		},
 		
 		{
@@ -86,6 +166,14 @@
 			"content_html": "<p>I’ve been using <a href=\"[feedafever.com](https://feedafever.com)\">Fever</a> for nearly a decade; the site was launched in 2008, and I was an early adopter. I’ve waxed and waned my RSS reading, sometimes going through periods where Digg or Reddit or Twitter gave me more of my news, but over the past few years I’ve been back in Fever a lot.</p>\n\n<p>I didn’t know, but Fever’s creator and author, Shaun Inman, <a href=\"[shauninman.com/archive/2...](https://shauninman.com/archive/2016/12/24/goodbye_mint_goodbye_fever)\">killed</a> Fever and <a href=\"[haveamint.com](http://haveamint.com/)\">Mint</a> over a year ago in December 2016! It’s a testament to how well written this little PHP app is, and to self-hosting software, that my instances of Fever have been so reliable for so long. I’ve done almost no maintenance, occasionally clearing disk space on the server, but that’s it. It’s great. I only found out they were deprecated when I visited the site looking for information on using regex to filter specific posts from a couple of my feeds.</p>\n\n<p>I’m looking for alternatives. I’m demoing <a href=\"[feedbin.com](https://feedbin.com)\">Feedbin</a> right now, and I like it so far. I do miss Fever’s clever aggregation feature<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup>, but I might be able to get something close by liberally applying auto-read actions, which actually very easily solved my needs I was using regex filters for in Fever. Good job, Feedbin!</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>Fever had this cool concept where some feeds could be marked as “Sparks”. They wouldn’t show up in your unread list, but they <em>would</em> add to a “Hot” section. Feed items that used similar language or linked to the same URLs would be aggregated under “Hot”, with more popular terms and links getting a higher temperature, and thus being “hotter”. So clever, and super useful for especially for squeezing some benefit from the really high-volume feeds that I otherwise won’t read. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
 			"date_published": "2018-01-23T12:00:16-08:00",
 			"url": "https://micro.jehanalvani.com/2018/01/23/reducing-my-fever.html"
+		},
+		
+		{
+			"id": "http://jalvani.micro.blog/2018/01/16/ive-spent-a.html",
+	      	
+			"content_html": "<p>I’ve spent a lot of today wondering what Dr. King would think of us, today. I suspect this look says it all. We’d do well to re-learn his lessons.</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/3588983423.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-15T16:18:47-08:00",
+			"url": "https://micro.jehanalvani.com/2018/01/15/ive-spent-a.html"
 		},
 		
 		{
@@ -122,56 +210,6 @@
 			"content_html": "<p>I&#8217;ve been reading about the Zone diet, recently. I&#8217;m coming at this as a long-time calorie and macro counter. I&#8217;m left with a few questions, and thought it might be interesting to document my thoughts. </p>\n\n<p>I’ll preface this discussion with the fact that I’m certainly not a nutritionist. I’m a fitness enthusiast who had my share of weight issues which stemmed from being a really active kid and teen who didn’t know <em>how</em> to eat. As a result, when I got to college and wasn’t as active in my sport, I gained a ton of weight. Over the years, I learned about fitness and nutrition, and I’ve gotten pretty good at manipulating both to achieve my goals. </p>\n\n<p>I was going to start with a quick summary of zone, but to really understand this, I think we need to go back a step.</p>\n\n<h2 id=\"calories\">Calories</h2>\n\n<p>Like I said, I’m a longtime macro-counter. The three &#8220;macro&#8221; nutrients are proteins, carbohydrates, and fats. There are others: fibers, acids, etc., but these three are relevant to this discussion.</p>\n\n<p>They break down something <a href=\"https://en.wikipedia.org/wiki/Food_energy#Nutrition_labels\">like this</a>: </p>\n\n<table>\n<colgroup>\n<col style=\"text-align:left;\" />\n<col style=\"text-align:left;\" />\n</colgroup>\n\n<thead>\n<tr>\n\t<th style=\"text-align:left;\">Nutrient</th>\n\t<th style=\"text-align:left;\">cal/g</th>\n</tr>\n</thead>\n\n<tbody>\n<tr>\n\t<td style=\"text-align:left;\">Fat</td>\n\t<td style=\"text-align:left;\">9</td>\n</tr>\n<tr>\n\t<td style=\"text-align:left;\">Proteins</td>\n\t<td style=\"text-align:left;\">4</td>\n</tr>\n<tr>\n\t<td style=\"text-align:left;\">Carbs</td>\n\t<td style=\"text-align:left;\">4</td>\n</tr>\n<tr>\n\t<td style=\"text-align:left;\"><em>Ethanol</em></td>\n\t<td style=\"text-align:left;\"><em>7</em></td>\n</tr>\n</tbody>\n</table>\n\n<p>The list isn&#8217;t comprehensive; I specifically included the macros we&#8217;re discussing, and I intentionally left Ethanol (Drinking Alcohol) in the list. I&#8217;ll circle back to that later.</p>\n\n<p>This list is based on pure protein, fat, and carbohydrates. In actuality, foods we eat are all combinations of the above. For example, ground beef is a mix of protein and fat, and is usually expressed as a percentage or ratio - eg. 80% lean, or 80/20 (where 80% is lean protein and 20% is fat). </p>\n\n<h2 id=\"summaryofzone\">Summary of Zone</h2>\n\n<p>Most of this, I&#8217;ve pulled from <a href=\"http://library.crossfit.com/free/pdf/cfjissue21_May04.pdf\">Issue 21 of the CrossFit Journal</a> from May 2004.</p>\n\n<p>Zone diet is based on macro counting but applies an abstraction layer in the form of &#8220;Blocks&#8221;. One block is 7g of protein, 9 grams of carbohydrates, or 3g of fat<a href=\"#fn:15392\" id=\"fnref:15392\" title=\"see footnote\" class=\"footnote\">[1]</a>. A meal contains <code>N</code> blocks of protein, fat, and carbohydrates, so a 1-block meal would have one block of each, and works out to about 90 calories<a href=\"#fn:32199\" id=\"fnref:32199\" title=\"see footnote\" class=\"footnote\">[2]</a>. </p>\n\n<p>Zone diet consumption is metered by applying a number of blocks to daily meals, with three meals and two snacks per day. Someone who is a &#8220;Four Blocker&#8221; has meals that are four blocks in size, or about 360 cal. Snacks, similarly, are a number of blocks from 1&#8211;4+. The number of blocks per meal is roughly determined by an individual&#8217;s sex and size. <em>Thus, Zone is really a framework for determining portion size and ensuring a balanced diet.</em></p>\n\n<p>The journal helpfully provides a list of foods that comprise one block of each macro. </p>\n\n<h2 id=\"calorieandmacrocounting\">Calorie and Macro Counting</h2>\n\n<p>Calorie counters usually start from a calculation of their Total Daily Energy Expenditure (TDEE), which is a combination of their Basal Metabolic Rate (BMR) and average caloric burn. BMR is the base number of calories a person needs to maintain weight without exercise. Adding average additional caloric load - which can come from an active commute, a physical job, or good old exercise - gives TDEE. There are a lot of calculators for estimating TDEE, and it’s easy to rathole on which is best for what purposes. I’m not getting into that here. </p>\n\n<p>Consuming fewer calories than your TDEE is consuming a deficit of calories, and leads to weight loss. Consuming more than your TDEE is a surplus, and leads to weight gain. Simple. </p>\n\n<p>In general, the guidance is .8&#8211;1.2g of protein per pound of bodyweight. This amount of protein is good for growing and maintaining muscle mass, and leads to a feeling of satiation. Apart from that, though, I never found good guidance about splits of fats and carbs. When I was most successful, I was eating about 20% of my daily intake as carbs, 40% from protein, and 40% from fat. It took some experimentation to figure that out, but I made small adjustments to my diet over a period of years. I’ll also say that I’ve never been working out 5&#8211;6 days each week, but 3&#8211;4 is pretty typical, and has been for years. Nutritional needs are likely different with that degree or exertion.</p>\n\n<p>Both in Zone and counting, there’s an element of tracking your consumption, and ensuring the portions being tracked are accurate. That takes dedication either way. </p>\n\n<h3 id=\"bulksandcuts\">Bulks and Cuts</h3>\n\n<p>With macro counting, there’s also a concept of bulks and cuts. It’s difficult to gain strength (adding lean muscle) in a caloric deficit, and it’s virtually impossible to lose fat at a caloric surplus. </p>\n\n<p>To lose about a pound per week, your consumption should be about 500 cal below TDEE. 500 calories above TDEE will gain you about a pound per week. Couple this with strength training, and smart application of cardio, and you can add muscle mass and lose fat very effectively.</p>\n\n<h2 id=\"questions\">Questions</h2>\n\n<p>This sets up my questions. </p>\n\n<ol>\n<li>In Zone, it seems like there’s no concept of bulks and cuts. Do I understand that correctly? If I do, why no bulks and cuts?</li>\n<li>If there are bulks and cuts, would I go to a “heavy gain” (5 block meals, 4 block snacks) for a bulk, and a more moderate 5 block meal/3 block snack or 4/4 for a cut?</li>\n<li>Do I adjust for exercise? While macro counting, I add calories burned in exercise to my TDEE, and scale my percentage of macros accordingly. That doesn’t seem to be the case with Zone, or it’s not addressed.</li>\n<li>How do you handle non-workout days with zone? It seems to assume a CrossFit “ideal” of 5&#8211;6 days per week of strenuous exercise.</li>\n</ol>\n\n<h2 id=\"whereilanded\">Where I landed</h2>\n\n<p>I see a lot of smarts in Zone, but the value is in the framework, not the application. I disagree with the splits of macros that Zone applies. Keeping carbs low over a period of time teaches your body to break down fat for fuel, which is super valuable<a href=\"#fn:49006\" id=\"fnref:49006\" title=\"see footnote\" class=\"footnote\">[3]</a>. </p>\n\n<p>I know that my TDEE is currently pretty close to 2300 cal. I shoot for 1800 cal while cutting, and 2500 while bulking. I’ll likely take this as a motivator to rethink my percentages and how I bulk. In the past, I scaled protein and filled in with whatever. Once I hit my macros for the day, it was on. I could eat whatever to make up the last calories. Now I’ll try to maintain my splits more consistently. </p>\n\n<h2 id=\"alcohol\">Alcohol</h2>\n\n<p>I promised to come back to booze, didn’t I? The 7cal/gram of ethanol does help explain why so many people say they really got traction once they dramatically reduced alcohol consumption. It’s worth keeping in mind that %ABV is the method of determining how much ethanol is in a drink, and a drink has other nutrients as well. Beer, for example, has a both alcohol sugars, and complex carbohydrates. A 5 ounce pour of wine is approximately 150g. Far from scientific, but opening my wine cabinet and pulling out a red, it’s 13.9% ABV. Let’s do some quick math: </p>\n\n<ul>\n<li>14% (Rounded 13.9% up) of 150g is 21g</li>\n<li>21g at 7 cal/g is 147 cal per glass of wine, plus residual sugars</li>\n</ul>\n\n<p>Booze trips up your splits no matter what. Now, I’m a big fan of moderation. Moderation in everything, including moderation.Just be conscious of the impact these things have.</p>\n\n<div class=\"footnotes\">\n<hr />\n<ol>\n\n<li id=\"fn:15392\">\n<p>There&#8217;s an assumption that any 7g of protein will itself contain 1.5 g of fat, so a block contains only 1.5 <em>additional</em> grams of fat.  <a href=\"#fnref:15392\" title=\"return to article\" class=\"reversefootnote\">&#160;&#8617;</a></p>\n</li>\n\n<li id=\"fn:32199\">\n<p>Protein: 7g * 4cal = 28cal of protein, Carbs: 9g * 4 = 36, Fat: 3g * 9cal = 27cal<br />\n28+36+28=91 cal <a href=\"#fnref:32199\" title=\"return to article\" class=\"reversefootnote\">&#160;&#8617;</a></p>\n</li>\n\n<li id=\"fn:49006\">\n<p>I don’t know much about it, but I can’t see how this approach would be good for younger athletes. Brain development requires loads of carbs and fat. Quick searches didn’t lead to any good studies to read, but that doesn’t meant they haven’t been done. I just don’t know of them.  <a href=\"#fnref:49006\" title=\"return to article\" class=\"reversefootnote\">&#160;&#8617;</a></p>\n</li>\n\n</ol>\n</div>\n",
 			"date_published": "2018-01-02T17:27:06-08:00",
 			"url": "https://micro.jehanalvani.com/2018/01/02/questions-about-zone.html"
-		},
-		
-		{
-			"id": "http://jalvani.micro.blog/2017/12/06/overcooked-the-eggs.html",
-	      	
-			"content_html": "<p>Overcooked the eggs, but man that’s a good looking bowl.</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2017/2981ed0f7e.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-05T18:16:02-08:00",
-			"url": "https://micro.jehanalvani.com/2017/12/05/overcooked-the-eggs.html"
-		},
-		
-		{
-			"id": "http://jalvani.micro.blog/2017/12/02/whitefox-true-fox.html",
-	      	
-			"content_html": "<p>WhiteFox True Fox Keyboard <a href=\"http://jehanalvani.com/blog/2017/12/1/whitefox-true-fox-keyboard\">jehanalvani.com</a></p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2017/9aa3962725.jpg\" width=\"600\" height=\"302\" /></p>\n",
-			"date_published": "2017-12-01T16:50:41-08:00",
-			"url": "https://micro.jehanalvani.com/2017/12/01/whitefox-true-fox.html"
-		},
-		
-		{
-			"id": "http://jalvani.micro.blog/2017/11/29/one-more.html",
-	      	
-			"content_html": "<p>One more:</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PxQvW7NNmno\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n",
-			"date_published": "2017-11-29T14:04:58-08:00",
-			"url": "https://micro.jehanalvani.com/2017/11/29/one-more.html"
-		},
-		
-		{
-			"id": "http://jalvani.micro.blog/2017/11/29/and-since-i.html",
-	      	
-			"content_html": "<p>And, since I can’t help myself when it comes to Jim Henson, here’s the old (strangely violent) Wilkins Coffee ads he did, featuring early muppets:</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HVewx3-9x24\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n",
-			"date_published": "2017-11-29T14:04:50-08:00",
-			"url": "https://micro.jehanalvani.com/2017/11/29/and-since-i.html"
-		},
-		
-		{
-			"id": "http://jalvani.micro.blog/2017/11/29/jim-hensons-bizarre.html",
-	      	
-			"title": "Jim Henson's Bizarre Anti-Paperwork Ad for IBM",
-			
-			"content_html": "<p>Adafruit posted this <a href=\"[blog.adafruit.com/2017/11/2...](https://blog.adafruit.com/2017/11/27/jim-henson-wanted-to-free-us-from-paperwork/)\">on their blog</a> today, and I’d never seen it before. From the Jim Henson Company’s <a href=\"[www.youtube.com/watch](https://www.youtube.com/watch?v=_IZw2CoYztk)\">YouTube channel</a>:</p>\n\n<blockquote>\n  <p>In 1967, Henson was contracted by IBM to make a film extolling the virtues of their new technology, the MT/ST, a primitive word processor. The film would explore how the MT/ST would help control the massive amount of documents generated by a typical business office. Paperwork Explosion, produced in October 1967, is a quick-cut montage of images and words illustrating the intensity and pace of modern business. Henson collaborated with Raymond Scott on the electronic sound track.</p>\n</blockquote>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_IZw2CoYztk\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n\n",
-			"date_published": "2017-11-29T13:54:25-08:00",
-			"url": "https://micro.jehanalvani.com/2017/11/29/jim-hensons-bizarre.html"
-		},
-		
-		{
-			"id": "http://jalvani.micro.blog/2017/11/28/223615.html",
-	      	
-			"content_html": "<p>🛫</p>\n",
-			"date_published": "2017-11-28T14:36:15-08:00",
-			"url": "https://micro.jehanalvani.com/2017/11/28/223615.html"
 		}
 		
 	]
