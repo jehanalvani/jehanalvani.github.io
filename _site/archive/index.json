@@ -7,11 +7,19 @@
 	"items": [
 		
 		{
+			"id": "http://jalvani.micro.blog/2018/10/02/i-animated-fangraphs.html",
+	      	
+			"content_text": "I animated FanGraphs’ projected playoff odds for the MLB each...",
+			"date_published": "2018-10-01T20:40:27-07:00",
+			"url": "https://micro.jehanalvani.com/2018/10/01/i-animated-fangraphs.html"
+		},
+		
+		{
 			"id": "http://jalvani.micro.blog/2018/10/01/songs.html",
 	      	
 			"title": "20 Songs",
 			
-			"content_text": "[@bradbarrish](https://micro.blog/bradbarrish) linked a playlist of 20 songs that “truly represent...",
+			"content_text": "@bradbarrish linked a playlist of 20 songs that “truly represent...",
 			"date_published": "2018-10-01T11:25:28-07:00",
 			"url": "https://micro.jehanalvani.com/2018/10/01/songs.html"
 		},
