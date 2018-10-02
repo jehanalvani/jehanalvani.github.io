@@ -8,6 +8,11 @@ aside, details, figcaption, figure, footer, header, hgroup, nav, section, post-t
     color: none;
 }
 
+
+header{
+	width: 100%;
+}
+
 /* 
 audio, canvas, video {
     display: inline-block;
@@ -348,11 +353,16 @@ ul, ol, dl, li {
     color: #777
 }
 
+.navigation{
+	width: 100%;
+}
+
 .menu { 
 	border-bottom: #444;
 	border-bottom-style: solid;
 	border-bottom-width: 1pt;
 	text-align: left;
+
 }
 
 .menu li a { text-decoration: none}
