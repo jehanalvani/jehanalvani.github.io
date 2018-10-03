@@ -7,9 +7,17 @@
 	"items": [
 		
 		{
+			"id": "http://jalvani.micro.blog/2018/10/03/i-have-two.html",
+	      	
+			"content_text": "I have two tickets available for Stuff You Missed in...",
+			"date_published": "2018-10-02T21:07:34-07:00",
+			"url": "https://micro.jehanalvani.com/2018/10/02/i-have-two.html"
+		},
+		
+		{
 			"id": "http://jalvani.micro.blog/2018/10/02/i-animated-fangraphs.html",
 	      	
-			"content_text": "I animated FanGraphs’ projected playoff odds for the MLB each...",
+			"content_text": "via Gfycat I animated FanGraphs’ projected playoff odds for the...",
 			"date_published": "2018-10-01T20:40:27-07:00",
 			"url": "https://micro.jehanalvani.com/2018/10/01/i-animated-fangraphs.html"
 		},
