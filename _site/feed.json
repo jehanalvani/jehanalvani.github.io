@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jalvani.micro.blog/2018/10/20/me-complaining-that.html",
+	      	
+			"content_html": "<p>Me, complaining that our toaster sometimes is a jerk: It’s 2018, it’s nearly 2019! It’s not hard to build electronics that compensate for a warm heating element and decrease the cook time accordingly \nLindsay: Oh my god, it’s a toaster let’s get mad about\nMe: I mean, I listened to a podcast where toasters were reviewed…\nLindsay: 😶 Are you ok? Do you need friends? \nMe: Well, I…\nLindsay: I mean, I know you’re a nerd but sometimes you really amaze me with how much of a nerd you really are.</p>\n",
+			"date_published": "2018-10-20T09:21:57-07:00",
+			"url": "https://micro.jehanalvani.com/2018/10/20/me-complaining-that.html"
+		},
+		
+		{
 			"id": "http://jalvani.micro.blog/2018/10/11/ive-been-fighting.html",
 	      	
 			"content_html": "<p>I’ve been fighting with In-Air WiFi all day, and as frustrating as it is it’s also still incredible.</p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p>I’ve spent a lot of today wondering what Dr. King would think of us, today. I suspect this look says it all. We’d do well to re-learn his lessons.</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/3588983423.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-15T16:18:47-08:00",
 			"url": "https://micro.jehanalvani.com/2018/01/15/ive-spent-a.html"
-		},
-		
-		{
-			"id": "http://jalvani.micro.blog/2018/01/12/got-opengarageio-homebridge.html",
-	      	
-			"content_html": "<p>Got OpenGarage.io + HomeBridge working, tonight. Honestly, I love this home automation stuff. It’s so fun.</p>\n",
-			"date_published": "2018-01-11T23:17:40-08:00",
-			"url": "https://micro.jehanalvani.com/2018/01/11/got-opengarageio-homebridge.html"
 		}
 		
 	]
