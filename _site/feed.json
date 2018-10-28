@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jalvani.micro.blog/2018/10/28/couldnt-we-have.html",
+	      	
+			"content_html": "<p>Couldn’t we have let Hill wear his Dick Mountain jersey for the rest of his season? Seems like the right way to respect its greatness. ⚾️</p>\n",
+			"date_published": "2018-10-27T18:58:28-07:00",
+			"url": "https://micro.jehanalvani.com/2018/10/27/couldnt-we-have.html"
+		},
+		
+		{
 			"id": "http://jalvani.micro.blog/2018/10/26/i-sank-an.html",
 	      	
 			"content_html": "<p>I sank an hour before bed playing <a href=\"https://itunes.apple.com/us/app/donut-county/id1292099839?mt=8\">Donut County</a>. If you were a fan of Katamari Damacy, this short iOS gem will be right up your alley.</p>\n",
@@ -200,16 +208,6 @@
 			"content_html": "<p>Trouble’s coming</p>\n\n<p><img src=\"http://micro.jehanalvani.com/uploads/2018/c5135071bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-30T16:54:19-08:00",
 			"url": "https://micro.jehanalvani.com/2018/01/30/troubles-coming.html"
-		},
-		
-		{
-			"id": "http://jalvani.micro.blog/2018/01/23/reducing-my-fever.html",
-	      	
-			"title": "Reducing my Fever",
-			
-			"content_html": "<p>I’ve been using <a href=\"[feedafever.com](https://feedafever.com)\">Fever</a> for nearly a decade; the site was launched in 2008, and I was an early adopter. I’ve waxed and waned my RSS reading, sometimes going through periods where Digg or Reddit or Twitter gave me more of my news, but over the past few years I’ve been back in Fever a lot.</p>\n\n<p>I didn’t know, but Fever’s creator and author, Shaun Inman, <a href=\"[shauninman.com/archive/2...](https://shauninman.com/archive/2016/12/24/goodbye_mint_goodbye_fever)\">killed</a> Fever and <a href=\"[haveamint.com](http://haveamint.com/)\">Mint</a> over a year ago in December 2016! It’s a testament to how well written this little PHP app is, and to self-hosting software, that my instances of Fever have been so reliable for so long. I’ve done almost no maintenance, occasionally clearing disk space on the server, but that’s it. It’s great. I only found out they were deprecated when I visited the site looking for information on using regex to filter specific posts from a couple of my feeds.</p>\n\n<p>I’m looking for alternatives. I’m demoing <a href=\"[feedbin.com](https://feedbin.com)\">Feedbin</a> right now, and I like it so far. I do miss Fever’s clever aggregation feature<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup>, but I might be able to get something close by liberally applying auto-read actions, which actually very easily solved my needs I was using regex filters for in Fever. Good job, Feedbin!</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>Fever had this cool concept where some feeds could be marked as “Sparks”. They wouldn’t show up in your unread list, but they <em>would</em> add to a “Hot” section. Feed items that used similar language or linked to the same URLs would be aggregated under “Hot”, with more popular terms and links getting a higher temperature, and thus being “hotter”. So clever, and super useful for especially for squeezing some benefit from the really high-volume feeds that I otherwise won’t read. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
-			"date_published": "2018-01-23T12:00:16-08:00",
-			"url": "https://micro.jehanalvani.com/2018/01/23/reducing-my-fever.html"
 		}
 		
 	]
